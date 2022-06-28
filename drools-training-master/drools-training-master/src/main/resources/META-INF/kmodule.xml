@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<kmodule
+  xmlns="http://www.drools.org/xsd/kmodule">
+
+  <kbase packages="io.github.aasaru.drools.section06.step5">
+    <ksession name="VisaIssueStep5"/>
+  </kbase>
+  <kbase packages="io.github.aasaru.drools.section01.step1">
+    <ksession name="BackwardChainingStep1"/>
+  </kbase>
+</kmodule>
